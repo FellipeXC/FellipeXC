@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working at Grupo Ambipar
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT and JAVA
-- 🤔 I’m looking for help with NODE, REACT
+- 🔭 I’m currently learning Power BI, SQL and Python
+- 🤔 I’m looking for help with agile methodologies
 - 📫 How to reach me: fxaviercavalcanti@gmail.com
